@@ -1,0 +1,14 @@
+/* Navigation */
+.nl {
+    margin: 0 4em 0 0;
+    color: #9b4dca;
+    cursor: pointer;
+}
+.nl:hover {
+    text-decoration: none;
+}
+
+/* Basic stuff */
+.gray {
+    color: #C0C0C0;
+}
